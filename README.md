@@ -57,11 +57,23 @@
 
 <br>
 
-<!-- GITHUB İSTATİSTİKLERİ -->
+<!-- GITHUB İSTATİSTİKLERİ & ÖĞRENME DURUMU -->
 <div style="width: 100%;">
+  <!-- Sadece ana istatistikler kaldı (commit sayısı, yıldız, pr vs. - Bunlar hep toplamdır, yaşlanmaz) -->
   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=beytyexe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=beytyexe&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
-  <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=beytyexe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  
+  <br><br>
+
+  <!-- YENİ: ÖĞRENME DURUMU (Progress Bars) -->
+  <h3>🚀 Şu an aktif olarak öğrendiklerim (Öğrenme Durumum)</h3>
+  <p>
+    <img src="https://progress-bar.dev/70/?title=JavaScript&width=400&color=5BCDEC" /><br>
+    <img src="https://progress-bar.dev/40/?title=React&width=400&color=61DAFB" /><br>
+    <img src="https://progress-bar.dev/25/?title=Next.js&width=400&color=000000" /><br>
+    <img src="https://progress-bar.dev/20/?title=Node.js&width=400&color=339933" /><br>
+    <img src="https://progress-bar.dev/10/?title=TypeScript&width=400&color=3178C6" />
+  </p>
+  <p><i>⭐ Not: Bu oranlar tahminidir, her gün biraz daha artıyor! 💪</i></p>
 </div>
 
 <br>
