@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>👋 Hi, I'm Beytu</h1>
-  
+  <h1>👋 Hi, I'm Beytullah</h1>
+  <h3>(but you can call me <b>Beytu</b>)</h3>
+
   ![](https://komarev.com/ghpvc/?username=beytyexe&color=blueviolet)
-  
+
   <h3>📍 Connect with me</h3>
   <p align="center">
     <a href="https://discord.com/users/806848492747358218" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -12,20 +13,24 @@
   </p>
 
   <p>
-    <b>You can call me <a href="https://github.com/beytyexe" style="color: #00b894;">beytyexe</a>.</b><br>
-    I'm a self-taught frontend developer and a dreamer who loves learning new things, watching movies, and building stuff that matters.
+    <b>Merhaba! 👋</b><br>
+    Ben Beytullah, ama herkes bana <b>Beytu</b> der.<br>
+    Frontend tarafında kendini geliştirmeye çalışan, öğrenmeyi seven ve stajyer olarak yola çıkmış biriyim.<br>
+    Hedefim: <b>React, Next.js ve Node.js</b> ile sağlam projeler üretmek.
   </p>
 
   <h3>
-    💻 I'm into JavaScript, Python, and modern web tech.<br>
-    🤝 I'm friendly and always open to meet new people.<br>
-    🚀 My goal is to share quality repos and grow with the community.<br>
-    📬 Reach me on Discord: <code>十Beytuم</code>
+    💻 Şu an bildiklerim:<br>
+    HTML • CSS • Tailwind • Bootstrap • JavaScript (öğreniyorum 🚀)<br><br>
+    🎯 Öğrenmek istediklerim:<br>
+    React • Next.js • Node.js • TypeScript<br><br>
+    🤝 İletişime açığım, takım çalışmasına ve yeni şeyler öğrenmeye hevesliyim.<br>
+    📬 Discord’da bana <code>b3ytu.dll</code> olarak ulaşabilirsin.
   </h3>
 
   <br/>
 
-  <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,python,javascript,typescript,react,php,html,css,figma,graphql,nodejs,vscode,discord&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,nodejs,typescript,figma,vscode,discord&theme=dark" />
 
   <br/><br/>
 
@@ -34,4 +39,7 @@
     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=beytyexe&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
     <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=beytyexe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   </div>
+
+  <br/>
+  <p><i>“Öğrenmek, en büyük yolculuktur.” 🧠</i></p>
 </div>
