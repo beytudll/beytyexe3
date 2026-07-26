@@ -14,14 +14,14 @@
 
 - **Selam!** Ben **Beytu** (gerçek adım Beytullah).  
 - **19 yaşında** Sivas'ta yaşıyorum.  
-- Frontend tarafında kendini geliştirmeye çalışan, öğrenmeye açık bir **stajyer adayıyım**.  
+- FullStack tarafında kendini geliştirmeye çalışan, öğrenmeye açık bir **stajyer adayıyım**.  
 - Hedefim: **React, Next.js ve Node.js** ile sağlam projeler üretmek.
 
 ---
 
 ## 🛠 Yeteneklerim
 
-| Şu an bildiklerim | Kullandığım UI Kütüphaneleri | Öğrenmek istediklerim |
+| Şu an bildiklerim | Kullandığım UI Kütüphaneleri | Öğrenme Aşamasındakiler |
 | :--- | :--- | :--- |
 | HTML • CSS • Tailwind • Bootstrap • JavaScript (öğreniyorum 🚀) | DaisyUI • Flowbite | React • Next.js • Node.js • TypeScript |
 
